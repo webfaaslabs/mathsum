@@ -9,5 +9,8 @@
     "test": "node src/test/sum"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
 }
